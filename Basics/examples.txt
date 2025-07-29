@@ -1,0 +1,2 @@
+overwriting file contents
+Newly appended line
